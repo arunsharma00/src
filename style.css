@@ -1,0 +1,48 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body {
+background-image:url('class1.png');
+font-size: 25px;
+font-family: 'Quintessential', cursive;
+text-align:center;
+color:crimson;
+}
+
+.container {
+flex: 0 1 700px;
+margin: auto;
+padding: 10px;
+}
+
+.screen-body-item {
+flex: 1;
+padding: 50px;
+}
+input {
+margin: 10px 10px 10px;
+}
+.showdata {
+color: black;
+font-size: 1.2rem;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.inputbox{
+width:250px;
+height:35px:
+border-radius:10%;
+margin:10px;
+}
+
+.credits{
+
+color:black;
+position:sticky;
+bottom:0;
+width:100%;
+line-height:2;
+}
